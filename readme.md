@@ -11,5 +11,6 @@
 4. arxiv 22 - Text to Artistic Image Generation
 5. NeurIPS 21 - CogView: Mastering Text-to-Image Generation via Transformers
 6. ICASSP 21 - Drawgan: Text to Image Synthesis with Drawing Generative Adversarial Networks
-7. CVPR 19 - DM-GAN: dynamic memory generative adversarial networks for text-to-image synthesis
-8. CVPR 18 - Attngan: Finegrained text to image generation with attentional generative adversarial networks
+7. ICML 20 - Zero-Shot Text-to-Image Generation
+8. CVPR 19 - DM-GAN: dynamic memory generative adversarial networks for text-to-image synthesis
+9. CVPR 18 - Attngan: Finegrained text to image generation with attentional generative adversarial networks
