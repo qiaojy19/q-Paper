@@ -6,7 +6,7 @@
 7. **welcome discussions**
 
 ## Text to Image
-3. arxiv 22 - CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers
+1. arxiv 22 - CogView2: Faster and Better Text-to-Image Generation via Hierarchical Transformers
 4. arxiv 22 - Hierarchical Text-Conditional Image Generation with CLIP Latents
 5. arxiv 22 - Text to Artistic Image Generation
 1. CVPR 22 - Vector Quantized Diffusion Model for Text-to-Image Synthesis
