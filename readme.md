@@ -1,9 +1,9 @@
 # All in Issues
-1. read paper
+1. read papers
 2. write notes
-3. ask questions
-4. make comments
-5. **welcome discussions**
+5. ask questions
+6. make comments
+7. **welcome discussions**
 
 ## Text to Image
 1. CVPR 22 - Vector Quantized Diffusion Model for Text-to-Image Synthesis
