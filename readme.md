@@ -14,3 +14,4 @@
 7. ICML 20 - Zero-Shot Text-to-Image Generation
 8. CVPR 19 - DM-GAN: dynamic memory generative adversarial networks for text-to-image synthesis
 9. CVPR 18 - Attngan: Finegrained text to image generation with attentional generative adversarial networks
+10. ICML 16 - Generative adversarial text to image synthesis
