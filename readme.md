@@ -18,3 +18,6 @@
 12. CVPR 19 - [**MirrorGAN**: Learning Text-to-image Generation by Redescription](https://github.com/qiaojy19/q-Papers/issues/14)
 13. CVPR 18 - [**Attngan**: Finegrained text to image generation with attentional generative adversarial networks](https://github.com/qiaojy19/q-Papers/issues/8)
 14. ICML 16 - [Generative adversarial text to image synthesis](https://github.com/qiaojy19/q-Papers/issues/11)
+
+## Federated Learning
+1. TNNLS 22 - [IFL-GAN: Improved Federated Learning Generative Adversarial Network With Maximum Mean Discrepancy Model Aggregation](https://github.com/qiaojy19/q-Papers/issues/15)
