@@ -21,3 +21,4 @@
 
 ## Federated Learning
 1. TNNLS 22 - [IFL-GAN: Improved Federated Learning Generative Adversarial Network With Maximum Mean Discrepancy Model Aggregation](https://github.com/qiaojy19/q-Papers/issues/15)
+2. IPDPS 19 - [MD-GAN: Multidiscriminator generative adversarial networks for distributed datasets](https://github.com/qiaojy19/q-Papers/issues/16)
