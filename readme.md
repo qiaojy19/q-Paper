@@ -15,5 +15,6 @@
 9. ICASSP 21 - [**Drawgan**: Text to Image Synthesis with Drawing Generative Adversarial Networks](https://github.com/qiaojy19/q-Papers/issues/6)
 10. ICML 20 - [(**DALL-E**) Zero-Shot Text-to-Image Generation](https://github.com/qiaojy19/q-Papers/issues/10)
 11. CVPR 19 - [**DM-GAN**: dynamic memory generative adversarial networks for text-to-image synthesis](https://github.com/qiaojy19/q-Papers/issues/7)
-12. CVPR 18 - [**Attngan**: Finegrained text to image generation with attentional generative adversarial networks](https://github.com/qiaojy19/q-Papers/issues/8)
-13. ICML 16 - [Generative adversarial text to image synthesis](https://github.com/qiaojy19/q-Papers/issues/11)
+12. CVPR 19 - [**MirrorGAN**: Learning Text-to-image Generation by Redescription](https://github.com/qiaojy19/q-Papers/issues/14)
+13. CVPR 18 - [**Attngan**: Finegrained text to image generation with attentional generative adversarial networks](https://github.com/qiaojy19/q-Papers/issues/8)
+14. ICML 16 - [Generative adversarial text to image synthesis](https://github.com/qiaojy19/q-Papers/issues/11)
