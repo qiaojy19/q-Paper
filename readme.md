@@ -5,8 +5,7 @@
 6. make comments
 7. **welcome discussions**
 
-## Text to Image
-0. [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
+## [Text to Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 1. arxiv 22 - [**CogView2**: Faster and Better Text-to-Image Generation via Hierarchical Transformers](https://github.com/qiaojy19/q-Papers/issues/1)
 4. arxiv 22 - [(**DALL-E-2**) Hierarchical Text-Conditional Image Generation with CLIP Latents](https://github.com/qiaojy19/q-Papers/issues/12)
 5. arxiv 22 - [Text to Artistic Image Generation](https://github.com/qiaojy19/q-Papers/issues/9)
