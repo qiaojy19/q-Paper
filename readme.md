@@ -1,7 +1,6 @@
-# All in Issues
-1. read papers
-2. write notes
-5. ask questions
+# Read Papers & Write Notes
+
+1. ask questions
 6. make comments
 7. **welcome discussions**
 
