@@ -1,8 +1,8 @@
 # Read Papers & Write (Chinese) Notes
 
-1. ask questions
-6. make comments
-7. **welcome discussions**
+1. Ask Questions
+6. Make Comments
+7. **Welcome Discussions**
 
 ## [Text to Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 1. arxiv 22 - [**CogView2**: Faster and Better Text-to-Image Generation via Hierarchical Transformers](https://github.com/qiaojy19/q-Papers/issues/1)
