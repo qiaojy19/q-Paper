@@ -1,4 +1,4 @@
-# Read Papers & Write (Chinese) Notes
+# Read Papers & Write Notes (in Chinese)
 
 1. Ask Questions
 6. Make Comments
