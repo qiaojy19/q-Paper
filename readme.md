@@ -18,6 +18,9 @@
 13. CVPR 18 - [**Attngan**: Finegrained text to image generation with attentional generative adversarial networks](https://github.com/qiaojy19/q-Papers/issues/8)
 14. ICML 16 - [Generative adversarial text to image synthesis](https://github.com/qiaojy19/q-Papers/issues/11)
 
-## Federated Learning
+## Generative Adversarial Network 
 1. TNNLS 22 - [IFL-GAN: Improved Federated Learning Generative Adversarial Network With Maximum Mean Discrepancy Model Aggregation](https://github.com/qiaojy19/q-Papers/issues/15)
 2. IPDPS 19 - [MD-GAN: Multidiscriminator generative adversarial networks for distributed datasets](https://github.com/qiaojy19/q-Papers/issues/16)
+
+## Gradient Inversion
+1. arxiv 22 - [Recovering Private Text in Federated Learning of Language Models]()
