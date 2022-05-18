@@ -19,4 +19,4 @@
 2. IPDPS 19 - [MD-GAN: Multidiscriminator generative adversarial networks for distributed datasets](https://github.com/qiaojy19/q-Papers/issues/16)
 
 ## Gradient Inversion
-1. arxiv 22 - [Recovering Private Text in Federated Learning of Language Models](https://github.com/qiaojy19/q-Papers/issues/27)
+1. arxiv 22 - [(**FILM**) Recovering Private Text in Federated Learning of Language Models](https://github.com/qiaojy19/q-Papers/issues/27)
