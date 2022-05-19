@@ -17,7 +17,7 @@
 15. [Others](https://github.com/qiaojy19/q-Papers/issues/28)
 
 ### Data -> Text
-1. ACL 22 - [How Do Seq2Seq Models Perform on End-to-End Data-to-Text Generation?]()
+1. ACL 22 - [How Do Seq2Seq Models Perform on End-to-End Data-to-Text Generation?](https://github.com/qiaojy19/q-Papers/issues/30)
 
 ## Generative Adversarial Network 
 1. TNNLS 22 - [IFL-GAN: Improved Federated Learning Generative Adversarial Network With Maximum Mean Discrepancy Model Aggregation](https://github.com/qiaojy19/q-Papers/issues/15)
