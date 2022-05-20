@@ -4,7 +4,7 @@
 6. Make Comments about Points
 7. **Welcome Discussions** with Others
 
-> Only Show **My 5 Most Concerned Papers** in Each Topic Here, Others are in `Others`
+> Only Show **My Most Concerned Papers** in Each Topic Here, Full Lists are in `Full List`
 
 ## Generation
 
@@ -14,7 +14,7 @@
 7. CVPR 22 - [(**VQ-Diffusion**) Vector Quantized Diffusion Model for Text-to-Image Synthesis](https://github.com/qiaojy19/q-Papers/issues/5)
 8. NeurIPS 21 - [**CogView**: Mastering Text-to-Image Generation via Transformers](https://github.com/qiaojy19/q-Papers/issues/2)
 10. ICML 20 - [(**DALL-E**) Zero-Shot Text-to-Image Generation](https://github.com/qiaojy19/q-Papers/issues/10)
-15. [Others](https://github.com/qiaojy19/q-Papers/issues/28)
+15. [Full List](https://github.com/qiaojy19/q-Papers/issues/28)
 
 ### Data -> Text
 1. ACL 22 - [How Do Seq2Seq Models Perform on End-to-End Data-to-Text Generation?](https://github.com/qiaojy19/q-Papers/issues/30)
