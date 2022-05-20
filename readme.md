@@ -4,7 +4,7 @@
 6. Make Comments about Points
 7. **Welcome Discussions** with Others
 
-> Only Show **My Most Concerned Papers** in Here, Full Lists are in `Full List`
+> Only Show **My Most Concerned Papers** Here, Full List of Each Topic is in `Full List`
 
 ## Generation
 
