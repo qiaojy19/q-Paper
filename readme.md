@@ -22,3 +22,6 @@
 
 ## Gradient Inversion
 1. arxiv 22 - [(**FILM**) Recovering Private Text in Federated Learning of Language Models](https://github.com/qiaojy19/q-Papers/issues/27)
+
+## Image Composition
+1. arxiv 21 - [Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://github.com/qiaojy19/q-Papers/issues/31)
