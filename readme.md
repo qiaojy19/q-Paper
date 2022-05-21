@@ -25,3 +25,6 @@
 
 ## Image Composition
 1. arxiv 21 - [Making Images Real Again: A Comprehensive Survey on Deep Image Composition](https://github.com/qiaojy19/q-Papers/issues/31)
+
+### Shadow Generation
+1. AAAI 22 - [Shadow Generation for Composite Image in Real-world Scenes](https://github.com/qiaojy19/q-Papers/issues/32)
