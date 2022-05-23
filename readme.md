@@ -28,3 +28,4 @@
 
 ### Shadow Generation
 1. AAAI 22 - [Shadow Generation for Composite Image in Real-world Scenes](https://github.com/qiaojy19/q-Papers/issues/32)
+2. CVPR 20 - [ARShadowGAN: Shadow Generative Adversarial Network for Augmented Reality in Single Light Scenes](https://github.com/qiaojy19/q-Papers/issues/33)
