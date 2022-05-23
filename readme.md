@@ -1,8 +1,6 @@
 # Read Papers & Write Notes
 
-1. Ask Questions about Papers
-6. Make Comments about Points
-7. **Welcome Discussions** with Others
+**Discussions are Welcome**
 
 > Only Show **My Most Concerned Papers** Here, Full List of Each Topic is in `Full List`
 
