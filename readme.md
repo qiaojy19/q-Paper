@@ -1,8 +1,6 @@
-# Read Papers & Write Notes
+# Read Paper
 
-**Discussions are Welcome**
-
-> Only Show **My Most Concerned Papers** Here, Full List of Each Topic is in `Full List`
+only show my **Recent Most Concerned Papers** here, full list of each topic is in `Full List`
 
 ## Generation
 
