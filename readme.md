@@ -1,4 +1,4 @@
-# Read Paper
+# Paper Notes
 
 only show my **Recent Most Concerned Papers** here, full list of each topic is in `Full List`
 
