@@ -1,7 +1,5 @@
 # Paper Notes
 
-only show my **Recent Most Concerned Papers** here, full list of each topic is in `Full List`
-
 ## Generation
 
 ### [Text -> Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
