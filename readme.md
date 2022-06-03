@@ -2,8 +2,8 @@
 
 ## Generation
 
-1. [Text to Image](https://github.com/qiaojy19/q-Papers/issues/28)
-2. [Data to Text](https://github.com/qiaojy19/q-Paper/issues/43)
+1. [Text to Image Generation](https://github.com/qiaojy19/q-Papers/issues/28)
+2. [Data to Text Generation](https://github.com/qiaojy19/q-Paper/issues/43)
 3. [Shadow Generation](https://github.com/qiaojy19/q-Paper/issues/44)
 
 ## Federated Learning
