@@ -12,6 +12,7 @@
 
 ## Computer Vision
 1. [Image Composition](https://github.com/qiaojy19/q-Paper/issues/46)
+2. [Image Harmonization](https://github.com/qiaojy19/q-Paper/issues/48)
 
 ## Music
 1. [AI for Music](https://github.com/qiaojy19/q-Paper/issues/47)
