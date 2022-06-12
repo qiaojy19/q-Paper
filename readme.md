@@ -1,4 +1,4 @@
-# Paper Notes
+# Paper Discuss
 
 > feel free to discuss in any issues
 
