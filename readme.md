@@ -1,5 +1,6 @@
-# Paper Notes
+# Paper
 
+> feel free to discuss
 ## Generation
 
 1. [Text to Image Generation](https://github.com/qiaojy19/q-Papers/issues/28)
