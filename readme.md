@@ -1,6 +1,6 @@
 # Paper Notes
 
-> feel free to discuss in any issues
+> feel free to discuss
 
 ## Generation
 
